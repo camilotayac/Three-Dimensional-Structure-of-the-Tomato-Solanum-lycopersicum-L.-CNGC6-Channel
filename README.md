@@ -22,15 +22,17 @@ If you use any of the models, datasets, or analyses from this repository, please
 ### **APA Format**
 
 ```text
-Tayac-Giraldo, J. C., Torres-Osorio, J., & Rodas-R., J. M. (2025). In silico Modeling and Analysis of the CNGC6 Channel from Solanum lycopersicum L.: Prediction of Three-Dimensional Structure and Function. Journal of Molecular Graphics and Modelling.
+Tayac, Camilo and Torres Osorio, Javier Ignacio and Rodas-Rodríguez, José Mauricio, In silico Modeling and Analysis of the CNGC6 Channel from Solanum lycopersicum L.: Prediction of Three-Dimensional Structure and Function. Available at SSRN: https://ssrn.com/abstract=5895214 or http://dx.doi.org/10.2139/ssrn.5895214
 ```
 
 ### BibTeX Format
 ```bibtex
 @article{tayac2025cngc6,
-  title     = {In silico Modeling and Analysis of the CNGC6 Channel from Solanum lycopersicum L.: Prediction of Three-Dimensional Structure and Function},
-  author    = {Tayac-Giraldo, Juan Camilo and Torres-Osorio, J. and Rodas-R., José Mauricio},
-  journal   = {Journal of Molecular Graphics and Modelling},
-  year      = {2025}
+  author    = {Tayac, Camilo and Torres Osorio, Javier Ignacio and Rodas-Rodríguez, José Mauricio},
+  title     = {In silico Modeling and Analysis of the CNGC6 Channel from *Solanum lycopersicum* L.: Prediction of Three-Dimensional Structure and Function},
+  journal   = {SSRN Electronic Journal},
+  year      = {2025},
+  doi       = {10.2139/ssrn.5895214},
+  url       = {https://ssrn.com/abstract=5895214}
 }
 ```
