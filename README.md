@@ -1,4 +1,4 @@
-# *In silico* Modeling and Analysis of the CNGC6 Channel from *Solanum lycopersicum* L.: Prediction of Three-Dimensional Structure and Function
+# *In silico* Modeling and Analysis of the cyclic nucleotide-activated channel 6 (CNGC6 Channel) from *Solanum lycopersicum* L. (tomato): Prediction of Three-Dimensional Structure and Function
 
 This repository contains the structural data generated for the research on the **CNGC6 channel from *Solanum lycopersicum***. It includes monomer models, homotetramer structures, and additional files used for structural and computational analyses throughout the project.
 
@@ -8,8 +8,9 @@ This repository contains the structural data generated for the research on the *
 
 | Folder / File | Description |
 |-------------------|-------------|
-| **`/monomer/`** | Contains data related to the **monomeric structure** of the CNGC6 channel. Includes raw models, refined structures, and evaluation files. |
-| **`/tetramer/`** | Contains **homotetrameric structures** assembled from selected monomers. |
+| [**`/monomer/`**](monomer/CNGC6) | Contains the three-dimensional structures of the tomato CNGC6 monomer obtained with the following programs: AlphaFold DB, IntFOLD7, ESMFold, RoseTTAFold2, and OmegaFold. |
+| [**`/monomer evaluation/`**](monomer/CNGC6/evaluation) | Contains evaluation results by the programs: QMEANDisCo, QMEAN, ModFOLD9, and ProQ3D-lDDT. |
+| [**`/tetramer/`**](tetramer) | Contains the three-dimensional structures of the tomato CNGC homotetramer, obtained from the programs: HSYMDOCK and SymmDock. **Note:** The models were labeled as follows: R indicates that the model was refined; A corresponds to AlphaFoldDB models; I to IntFOLD7 models; S to those assembled using SymmDock; and H to those generated with HSYMDOCK. |
 
 ---
 
