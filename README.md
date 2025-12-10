@@ -11,7 +11,7 @@ This repository contains the structural data generated for the research on the *
 | [**`monomer`**](monomer/CNGC6) | Contains the three-dimensional structures of the tomato CNGC6 monomer obtained with the following programs: AlphaFold DB, IntFOLD7, ESMFold, RoseTTAFold2, and OmegaFold. |
 | [**`monomer evaluation`**](monomer/CNGC6/evaluation) | Contains evaluation results by the programs: QMEANDisCo, QMEAN, ModFOLD9, and ProQ3D-lDDT. |
 | [**`tetramer`**](tetramer) | Contains the three-dimensional structures of the tomato CNGC homotetramer, obtained from the programs: HSYMDOCK and SymmDock. **Note:** The models were labeled as follows: R indicates that the model was refined; A corresponds to AlphaFoldDB models; I to IntFOLD7 models; S to those assembled using SymmDock; and H to those generated with HSYMDOCK. |
-| [**`conserved residues`**](conserved_residues) | Contains the conserved residue files of the CNGC6 channel monomer from tomato. |
+| [**`conserved residues`**](conserved_residues) | Contains the conserved-residue files of the CNGC6 channel monomer from tomato, generated using the ConSurf program. |
 
 ---
 
