@@ -2,6 +2,8 @@
 
 This repository contains the structural data generated for the research on the **CNGC6 channel from *Solanum lycopersicum***. It includes monomer models, homotetramer structures, and additional files used for structural and computational analyses throughout the project.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camilotayac/Three-Dimensional-Structure-of-the-Tomato-Solanum-lycopersicum-L.-CNGC6-Channel/blob/master/CNGC6_reproducibilidad.ipynb)
+
 ---
 
 ## 📂 Repository Structure
@@ -13,6 +15,7 @@ This repository contains the structural data generated for the research on the *
 | [**`tetramer`**](tetramer) | Contains the three-dimensional structures of the tomato CNGC homotetramer, obtained from the programs: HSYMDOCK and SymmDock. **Note:** The models were labeled as follows: R indicates that the model was refined; A corresponds to AlphaFoldDB models; I to IntFOLD7 models; S to those assembled using SymmDock; and H to those generated with HSYMDOCK. |
 | [**`conserved residues`**](conserved_residues) | Contains the conserved-residue files of the CNGC6 channel monomer from tomato, generated using the ConSurf program. |
 | [**`pore`**](pore) | Contains the pore analysis data of the tomato CNGC6 channel. |
+| [**`CNGC6_reproducibilidad.ipynb`**](CNGC6_reproducibilidad.ipynb) | Jupyter/Colab notebook that reproduces all calculations of the manuscript (environment, QMEAN, membrane, PPM 2, RMSD/TM-score, interfaces, pore). |
 
 ---
 
